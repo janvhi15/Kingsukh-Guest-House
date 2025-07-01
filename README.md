@@ -44,7 +44,7 @@ project-root/
 │
 ├── index.html
 ├── style.css
-└── assets/
+|── assets/
 ├── images (e.g., header.jpg, out.jpg)
 ├── icons (e.g., facebook.png, instagram.png)
 ________________________________________
